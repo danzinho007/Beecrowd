@@ -1,0 +1,13 @@
+Desafios_Iniciante:
+
+1000 Hello_World
+1001 Extremamente_Basico
+1002 Area_do_Circulo
+1003 Soma_Simples
+1004 Produto_Simples
+1005 Media_1
+1006 Media_2
+1007 Diferenca
+1008 Salario
+1009 Salario_com_Bonus
+1010 Esfera
