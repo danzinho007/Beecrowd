@@ -1,0 +1,105 @@
+Beecrowd_Python
+
+1001-ExtremamenteBásico
+1-ExtremamenteBásico 641 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1001
+
+a = int(input())
+b = int(input())
+x = a + b
+print('X =', x)
+
+1002-ÁreaDoCírculo
+2-ÁreaDoCírculo 476 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1002
+
+r = float(input())
+n = 3.14159
+a = n * r * r
+print(f"A={a:.4f}")
+
+1003-SomaSimples
+3-SomaSimples 456 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1003
+
+a = int(input())
+b = int(input())
+s = a + b
+print('SOMA =',s)
+
+1004-ProdutoSimples
+4-ProdutoSimples 430 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1004
+
+a = int(input())
+b = int(input())
+r = a * b
+print("PROD =",r)
+
+1000-HelloWorld
+5-HelloWorld 429 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1000
+
+print("Hello World!")
+
+1005-Média1
+6-Média1 388 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1005
+
+t = float(input())
+p = float(input())
+m = t*3.5/11 + p*7.5/11
+print(f"MEDIA = {m:.5f}")
+
+7-1007-Diferença1 367 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1007
+
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+r = a*b-c*d
+print("DIFERENCA =",r)
+
+8-1006-Média2 353 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1006
+
+
+
+9-1008-Salário 344 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1008
+
+n = int(input())
+h = int(input())
+v = float(input())
+s = h * v
+print("NUMBER =",n)
+print(f"SALARY = U$ {s:.2f}")
+
+10-1009-SalárioComBônus 312 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1009
+
+n = str(input())
+s = float(input())
+v = float(input())
+t = s+v*15/100
+print(f"TOTAL = R$ {t:.2f}")
+# Exemplo :
+# Salário Fixo = 500
+# Vendeu 1230.30
+# Comissão 15% sobre as vendas
+# Vendas * Comissão 
+# 1230,30 * 15 / 100
+# Total 684.54
+
+11-1010-CálculoSimples 287 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1010
+
+c1, n1, v1 = input().split()
+c2, n2, v2 = input().split()
+n1 = int(n1)
+v1 = float(v1)
+n2 = int(n2)
+v2 = float(v2)
+vT = (n1*v1)+(n2*v2)
+print(f"VALOR A PAGAR: R$ {vT:.2f}")
