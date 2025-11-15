@@ -1,0 +1,113 @@
+Desafios_Iniciante:
+
+1000 Hello_World
+-C
+-C_Sharp
+-C++
+-JavaScript
+-Lua
+-Python_311
+-Python_3.9
+
+1001 Extremamente_Basico
+-C
+-C_Sharp
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1002 Area_do_Circulo
+-C
+-C_Sharp
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1003 Soma_Simples
+-C
+-C_Sharp
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1004 Produto_Simples
+-C
+-C_Sharp
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1005 Media_1
+-C
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1006 Media_2
+-C++
+-JavaScript
+-Lua
+
+1007 Diferenca
+-C
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1008 Salario
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1009 Salario_com_Bonus
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1010 Calculo_Simples
+-C++
+-JavaScript
+-Lua
+-Python_39
+
+1011 Esfera
+-C++
+-JavaScript
+
+1012 Area 
+-C++
+
+1013 OMaior
+-C++
+
+1014 Consumo
+-C++
+
+1015 DistânciaEntre2Pontos
+-C++
+
+1016 Distância
+-C++
+
+1017 GastoDeCombustível
+-C++
+-JavaScript
+
+1018 Cédulas
+-C++
+
+1019 ConversãoDeTempo
+-C++
+
+1020
+
+1040 Média3
+-C

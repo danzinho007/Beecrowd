@@ -1,0 +1,37 @@
+Beecrowd_Exercícios
+https://judge.beecrowd.com/pt/problems/all?sort=Problems.solved&direction=desc
+
+1-ExtremamenteBásico 641 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1001
+
+2-ÁreaDoCírculo 476 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1002
+
+3-SomaSimples 456 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1003
+
+4-ProdutoSimples 430 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1004
+
+5-HelloWorld 429 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1000
+
+6-Média1 388 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1005
+
+7-Diferença 367 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1007
+
+8-Média2 353 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1006
+
+9-Salário 344 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1008
+
+10-SalárioComBônus 312 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1009
+
+11-CálculoSimples 287 mil acertaram
+https://judge.beecrowd.com/pt/problems/view/1010
+
+11-

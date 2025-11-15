@@ -1,0 +1,6 @@
+A = tonumber(io.read())
+B = tonumber(io.read())
+C = tonumber(io.read())
+D = tonumber(io.read())
+DIFERENCA = (A * B) - (C * D)
+print("DIFERENCA = " .. DIFERENCA)

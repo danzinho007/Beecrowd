@@ -1,0 +1,57 @@
+Q1000_HelloWorld!
+Escrever "HellowWorld!" na tela, sem as aspas
+
+Q1001
+Soma de 2 inteiros
+
+Q1002_Área do Círculo
+
+Q1003_Soma Simples
+Soma de 2 inteiros
+Saída : SOMA = X 
+
+Q1004_ProdutoSimples
+Multiplicação de 2 inteiros
+Saída : PROD = X
+
+Q1005_Média1
+Média de 2 reais (flutuantes)
+Saída : MEDIA = X.12345
+
+Q1006_Média2
+Média de 3 notas
+Sendo que a 1° tem peso 2
+a 2° tem peso 3 e a 3° tem peso 5
+Saída : MEDIA = X.1
+
+Q1007_Diferença
+Diferença entre 4 inteiros
+Fórmula > Diferença = (A*B-C*D)
+Saída : DIFERENCA = X
+
+Q1008_Salário
+NúmeroDoFuncionário = inteiro
+NúmeroDeHorasTrabalhadas = inteiro
+ValorPorHora = flutuante
+Saída : NUMBER = X
+Saída : SALARY = U$ XXX.12
+
+Q1009_SalárioComBônus
+NomeDoFuncionário = string
+SalárioFixo = flutuante
+TotalDeVendas = flutuante
+Comissão = 15%
+Saída : TOTAL = R$ XXX.12
+
+Q1010_CálculoSimples
+CódigoPeça1 = inteiro
+NúmeroPeça1 = inteiro
+ValorUnitárioPeça1 = flutuante
+CódigoPeça2 = inteiro
+NúmeroPeça2 = inteiro
+ValorUnitárioPeça2 = flutuante
+Entrada: 12 1 5.50
+Entrada: 16 2 5.10
+Saída : VALOR A PAGAR = R$ XXX.XX
+
+Q1011_  
