@@ -1,0 +1,112 @@
+Q1000_HelloWorld!
+Escrever "HellowWorld!" na tela, sem as aspas
+
+println("Hello World!")
+
+Q1001
+Soma de 2 inteiros
+
+Q1002_Área do Círculo
+
+Q1003_Soma Simples
+Soma de 2 inteiros
+Saída : SOMA = X 
+
+Q1004_ProdutoSimples
+Multiplicação de 2 inteiros
+Saída : PROD = X
+
+Q1005_Média1
+Média de 2 reais (flutuantes)
+Saída : MEDIA = X.12345
+
+Q1006_Média2
+Média de 3 notas
+Sendo que a 1° tem peso 2
+a 2° tem peso 3 e a 3° tem peso 5
+Saída : MEDIA = X.1
+
+Q1007_Diferença
+Diferença entre 4 inteiros
+Fórmula > Diferença = (A*B-C*D)
+Saída : DIFERENCA = X
+
+Q1008_Salário
+NúmeroDoFuncionário = inteiro
+NúmeroDeHorasTrabalhadas = inteiro
+ValorPorHora = flutuante
+Saída : NUMBER = X
+Saída : SALARY = U$ XXX.12
+
+Q1009_SalárioComBônus
+NomeDoFuncionário = string
+SalárioFixo = flutuante
+TotalDeVendas = flutuante
+Comissão = 15%
+Saída : TOTAL = R$ XXX.12
+
+Q1010_CálculoSimples
+CódigoPeça1 = inteiro
+NúmeroPeça1 = inteiro
+ValorUnitárioPeça1 = flutuante
+CódigoPeça2 = inteiro
+NúmeroPeça2 = inteiro
+ValorUnitárioPeça2 = flutuante
+Entrada: 12 1 5.50
+Entrada: 16 2 5.10
+Saída : VALOR A PAGAR = R$ XXX.XX
+
+Q1011_  
+
+
+
+println("Hello World!")
+
+1-Extensão do arquivo julia : .jl 
+2-Comentário : # Ignora o resto da linha 
+               #= Ignora várias linhas seguidas =#
+3-
+
+
+-----Funções-----
+
+---parse = Converte uma string para um número (Int, Float etc).
+num = parse(Int, readline())
+num = parse(Float64, readline())
+
+Conversão	Comando
+String → Int	parse(Int, s)
+String → Float	parse(Float64, s)
+Int → Float	Float64(x)
+Float → Int	Int(x) ou round(Int, x)
+Qualquer coisa → String	string(x)
+Vetor de Strings → Vetor de Int	parse.(Int, vetor)
+
+---println = Significa print line, ou seja, imprime algo na tela e pula uma linha no final.
+println("Olá Mundo!")
+
+push = Adiciona um valor ao final de um vetor (lista).
+
+---readline = Lê uma linha da entrada padrão 
+O que vem de um readline é uma string
+println("Digite seu nome:")
+nome = readline()
+println("Seja bem-vindo ", nome)
+
+split = Divide uma string em partes usando um separador.
+
+---typeof = Descobrir o tipo de uma variável
+nome = "Duda"
+println(typeof(nome))   # String
+x = 10
+println(typeof(x))   # Int64
+y = 3.14
+println(typeof(y))   # Float64
+b = true        # Bool
+z = big"999999999999999999999"
+v = [1, 2, 3]   # Array{Int64}
+t = (1, "a", true)
+d = Dict("A" => 1, "B" => 2)
+s = Set([1, 2, 2, 3])
+c = 'a'    # Char
+x = nothing
