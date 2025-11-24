@@ -2,17 +2,29 @@ Q1000_HelloWorld!
 Escrever "HellowWorld!" na tela, sem as aspas
 
 Q1001
-Soma de 2 inteiros
+Soma de 2 inteiros ( A e B )
+Entrada : 5 
+Entrada : 2
+Saída : X = 7
 
-Q1002_Área do Círculo
+Q1002_Área do Círculo 
+Raio é um PontoFlutuante e na saída são 4 casas decimais
+Area = Pi * r²
+pi = 3.14159
+Entrada : 2.00
+Saída : A=12.5664
 
 Q1003_Soma Simples
-Soma de 2 inteiros
-Saída : SOMA = X 
+Soma de 2 inteiros ( A e B )
+Entrada : 30
+Entrada : 10
+Saída : SOMA = 40
 
 Q1004_ProdutoSimples
-Multiplicação de 2 inteiros
-Saída : PROD = X
+Multiplicação de 2 inteiros ( A e B )
+Entrada : 3
+Entrada : 9
+Saída : PROD = 27
 
 Q1005_Média1
 Média de 2 reais (flutuantes)

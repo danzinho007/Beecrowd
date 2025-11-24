@@ -5,10 +5,6 @@ https://judge.beecrowd.com/pt/users/country/br
 Rank = Resolvido Tentado Submissões Pontos
 Link 
 
-Eu = 
-https://judge.beecrowd.com/pt/users/country/br?page=4638
-https://judge.beecrowd.com/pt/rank?page=7725
-
 ----
 
 Pontos 370.15
@@ -26,16 +22,45 @@ https://judge.beecrowd.com/pt/rank?page=2000
 BR Pontos 211.02
 https://judge.beecrowd.com/pt/users/country/br?page=1300
 
+Geral Pontos 207.45
+https://judge.beecrowd.com/pt/rank?page=2100
+
+BR Pontos 206.24
+https://judge.beecrowd.com/pt/users/country/br?page=1350
+
+BR pontos 205.23
+https://judge.beecrowd.com/pt/users/country/br?page=1360
+
+Eu : 205.16
+BR = https://judge.beecrowd.com/pt/users/country/br?page=1361
+Geral = https://judge.beecrowd.com/pt/rank?page=2136
+
+Geral Pontos 204.37
+https://judge.beecrowd.com/pt/rank?page=2150
+
+BR Pontos 204.27
+https://judge.beecrowd.com/pt/users/country/br?page=1370
+
+Geral Pontos 201.47
+https://judge.beecrowd.com/pt/rank?page=2200
+
 BR Pontos 201.13
 https://judge.beecrowd.com/pt/users/country/br?page=1400
+
+Geral Pontos 195.79
+https://judge.beecrowd.com/pt/rank?page=2300
 
 BR Pontos 192.03
 https://judge.beecrowd.com/pt/users/country/br?page=1500
 
-Eu 190.93
+Geral Pontos 190.30
+https://judge.beecrowd.com/pt/rank?page=2400
 
 Geral Pontos 183.99
 https://judge.beecrowd.com/pt/rank?page=2513
+
+Geral Pontos 185.02
+https://judge.beecrowd.com/pt/rank?page=2500
 
 BR Pontos 175.81
 https://judge.beecrowd.com/pt/users/country/br?page=1700
