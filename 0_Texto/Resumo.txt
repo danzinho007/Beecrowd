@@ -28,13 +28,18 @@ Saída : PROD = 27
 
 Q1005_Média1
 Média de 2 reais (flutuantes)
-Saída : MEDIA = X.12345
+Entrada : 5.0
+Entrada : 7.1
+Saída : MEDIA = 6.43182
 
 Q1006_Média2
 Média de 3 notas
 Sendo que a 1° tem peso 2
 a 2° tem peso 3 e a 3° tem peso 5
-Saída : MEDIA = X.1
+Entrada : 5.0
+Entrada : 6.0
+Entrada : 7.0
+Saída : MEDIA = 6.3
 
 Q1007_Diferença
 Diferença entre 4 inteiros
