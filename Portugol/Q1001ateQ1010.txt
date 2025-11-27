@@ -1,0 +1,40 @@
+Site usado
+https://visualg.com.br/
+Precisa declarar 1 de cada vez 
+
+Q1000_HellowWorld!
+
+algoritmo "Q001"
+var
+
+inicio
+   Escreval("Hello World!")
+fimalgoritmo
+
+Q1001_SomaDe2Inteiro
+algoritmo "Q1001"
+var
+   A, B, X: Inteiro
+inicio
+   Leia(A)
+   Leia(B)
+   X <- A + B
+   Escreval("X = ", X)
+fimalgoritmo
+
+Q1002_AreaDoCirculo
+algoritmo "Q1002_AreaDoCirculo"
+// Raio é um PontoFlutuante e na saída são 4 casas decimais
+// Area = Pi * r²
+// pi = 3.14159
+// Entrada : 2.00
+// Saída : A=12.5664
+var
+   r, area: real
+inicio
+    leia(r)
+    pi = 3.14159
+    area <- pi * ( r * r )
+    escreval("A= ", area:2:4)
+fimalgoritmo
+
