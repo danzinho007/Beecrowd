@@ -38,3 +38,37 @@ inicio
     escreval("A= ", area:2:4)
 fimalgoritmo
 
+-------------------------------------
+Q1003_Soma Simples
+Soma de 2 inteiros ( A e B )
+Entrada : 30
+Entrada : 10
+Saída : SOMA = 40
+
+algoritmo "semnome"
+var
+   A,B,Soma:inteiro
+inicio
+      leia(A)
+      leia(B)
+      Soma <- A + B
+      escreval("SOMA =",Soma)
+fimalgoritmo
+
+---------------------------------------
+Q1004_ProdutoSimples
+Multiplicação de 2 inteiros ( A e B )
+Entrada : 3
+Entrada : 9
+Saída : PROD = 27
+
+algoritmo "semnome"
+var
+   A,B,Prod:inteiro
+inicio
+      leia(A)
+      leia(B)
+      Prod <- A * B
+      escreval("PROD =",Soma)
+fimalgoritmo
+
