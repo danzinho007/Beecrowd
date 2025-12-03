@@ -72,3 +72,44 @@ inicio
       escreval("PROD =",Soma)
 fimalgoritmo
 
+---------------------
+Q1005_Média1
+Média de 2 reais (flutuantes)
+A tem peso 3.5
+B tem peso 7.5
+Entrada : 5.0
+Entrada : 7.1
+Saída : MEDIA = 6.43182
+
+algoritmo "semnome"
+var
+   A,B,media:real
+inicio
+   Leia(A)
+   Leia(B)
+   media <- ( A * 3.5 + B * 7.5 ) / 11.0
+   Escreval("MEDIA = ",media:1:5)
+fimalgoritmo
+
+--------------------------
+Q1006_Média2
+Média de 3 notas
+Sendo que a 1° tem peso 2
+a 2° tem peso 3 e a 3° tem peso 5
+Entrada : 5.0
+Entrada : 6.0
+Entrada : 7.0
+Saída : MEDIA = 6.3
+
+algoritmo "semnome"
+var
+   A,B,C,media: real
+inicio
+   Leia(A)
+   Leia(B)
+   Leia(C)
+   media <- ( A * 2 + B * 3 + C * 5 ) / 10
+   Escreval("MEDIA = ",media:1:1)
+fimalgoritmo
+
+--------------------
